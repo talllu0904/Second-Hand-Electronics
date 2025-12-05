@@ -16,8 +16,16 @@ This project provides a trusted marketplace for used computer components, with f
 - **Database**: Mock in-memory (SQL schema for reference).
 
 ## Status
-- Completed: Core demo with all features prototyped.
-- Remaining: Real DB integration, security hardening, deployment.
+- Completed:
+-   Cart
+-   Product page
+-   Account creation
+-   Compatability checking
+-   Part comparison
+- Remaining:
+-   Database integration
+-   Account details/info
+-   Trade-in/return requests
 
 ## Challenges
 - Ensuring modular code isolation.
