@@ -24,7 +24,7 @@ This project provides a trusted marketplace for used computer components, with f
 - Scalable compatibility/spec parsing.
 - UI consistency across roles.
 
-##️ Technologies
+## Technologies
 - Frontend: HTML, CSS, JS.
 - Backend: Node.js, Express.
 - Database: Mock (SQL schema).
