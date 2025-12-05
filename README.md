@@ -10,7 +10,7 @@ This project provides a trusted marketplace for used computer components, with f
 - **Seller Features**: Revenue dashboard, inventory management, certification requests, subscriptions.
 - **Admin/Technician**: Approve listings, manage disputes/returns, grading criteria, logs, analytics, account/item management.
 
-##️ Architecture
+## Architecture
 - **Frontend**: HTML, CSS, JS (modular, themed).
 - **Backend**: Node.js + Express (modular routes).
 - **Database**: Mock in-memory (SQL schema for reference).
